@@ -1,6 +1,6 @@
 {
   "name": "mindflow_pipeline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipeline node execution for MindFlow library",
   "main": "mindflow_pipeline.js",
   "scripts": {
