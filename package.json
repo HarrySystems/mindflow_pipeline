@@ -1,0 +1,22 @@
+{
+  "name": "mindflow_pipeline",
+  "version": "1.0.0",
+  "description": "Pipeline node execution for MindFlow library",
+  "main": "mindflow_pipeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrysystems/mindflow_pipeline.git"
+  },
+  "author": "HarrySystems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrysystems/mindflow_pipeline/issues"
+  },
+  "homepage": "https://github.com/harrysystems/mindflow_pipeline#readme",
+  "dependencies": {
+    "mindflow": "^1.0.1"
+  }
+}
